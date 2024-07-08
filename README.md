@@ -11,7 +11,7 @@
 *Beijing, China*  
 *School of Physics*  
 *2022--*  
-- Overall GPA: 3.612/4.0  
+- Overall GPA: 3.57/4.0  
 
 ---
 
