@@ -51,6 +51,13 @@ Submitted on arXiv, September 2023
 
 ---
 
+## Skills
+
+- **Programming:** Python, LaTeX, Markdown
+- **English:** TOEFL 112, CET-6 696, several interns in US with considerable proficiency in English
+
+---
+
 ## Selected Courses
 
 **Attended Courses**
@@ -75,8 +82,4 @@ Submitted on arXiv, September 2023
 
 ---
 
-## Skills
-
-- **Programming:** Python, LaTeX, Markdown
-- **English:** TOEFL 112, CET-6 696, several interns in US with considerable proficiency in English
 
