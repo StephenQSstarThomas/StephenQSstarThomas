@@ -11,7 +11,7 @@
 *Beijing, China*  
 *School of Physics*  
 *2022--*  
-- Overall GPA: 3.57/4.0  
+- Overall GPA: 3.58/4.0  
 
 ---
 
@@ -25,6 +25,7 @@
 ## Research Interests
 
 **NLP (LLM Hallucination & NLG Evaluation)**  
+**Benchmark for Text-and-Image Generation**
 
 ---
 
@@ -42,7 +43,7 @@ Submitted on arXiv, September 2023
 **Undergraduate Research Program**
 
 - **Summer Internship at AIWaves**
-  - Contributed to the development of the underlying code for an intelligent agent (AI-Agent) and co-authored a paper. Received 4.5k stars on GitHub.
+  - Contributed to the development of the underlying code for an intelligent agent (AI-Agent) and co-authored a paper. Received 5k stars on GitHub.
   - [Project Link](https://github.com/aiwaves-cn/agents)
 
 - **CUPT Competition**
@@ -77,5 +78,5 @@ Submitted on arXiv, September 2023
 ## Skills
 
 - **Programming:** Python, LaTeX, Markdown
-- **English:** TOEFL 110, CET-6 696
+- **English:** TOEFL 112, CET-6 696, several interns in US with considerable proficiency in English
 
