@@ -9,7 +9,7 @@
 
 **Peking University**  
 *Beijing, China*  
-*School of Physics & School of Information Technology*  
+*School of Physics & School of Electronics Engineering and Computer Science*  
 *2022--*  
 - Overall GPA: 3.58/4.0  
 
