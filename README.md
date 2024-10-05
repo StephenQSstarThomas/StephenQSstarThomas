@@ -18,7 +18,8 @@
 ## Honors
 
 - 🏅 Shu Qi Scholarship (top 5%) - 2023  
-- 🏆 Youth Award for Athletics (Physics Major Representative) - 2023  
+- 🏆 Youth Award for Athletics (Physics Major Representative) - 2023
+- 🥇 Excellence in Research Award - 2024 
 
 ---
 
@@ -40,14 +41,18 @@ Submitted on arXiv, September 2023
 
 ## Research Experience
 
-**Undergraduate Research Program**
+**Undergraduate Research Program** (sorted by time)
 
-- **Summer Internship at AIWaves**
-  - Contributed to the development of the underlying code for an intelligent agent (AI-Agent) and co-authored a paper. Received 5k stars on GitHub.
+- **CUPT Competition** 2023.3–5  
+  - Third Prize in the CUPT (China Undergraduate Physics Tournament) School Competition, as one of the Main Speakers in the team.
+
+- **Summer Internship at AIWaves** 2023.6–8  
+  - Contributed to the development of the underlying code for an intelligent agent (AI-Agent) and co-authored a paper. Received 5k stars on GitHub.  
   - [Project Link](https://github.com/aiwaves-cn/agents)
 
-- **CUPT Competition**
-  - Third Prize in the CUPT (China Undergraduate Physics Tournament) School Competition, as one of the Main Speakers in team
+- **Summer Internship at UNC** 2024.6–8  
+  - Worked with Prof. Huaxiu Yao at the Department of Computer Science, UNC-Chapel Hill, as an assistant researcher. Contributed to multiple projects.
+
 
 ---
 
@@ -79,6 +84,8 @@ Submitted on arXiv, September 2023
 - Member of the Badminton Team; Achieved third place in the Beijing University Cup Badminton Team Competition.
 - Class Monitor of Class 8 in the 22nd Undergraduate Cohort.
 - Key Member of the Beijing University Blockchain Association
+---
+
 
 ---
 
